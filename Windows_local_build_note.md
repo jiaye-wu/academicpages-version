@@ -16,13 +16,13 @@
       ```
 
       (https://jekyllrb.com/docs/installation/windows/)
-   5. ```
+   5. ```ruby
       bundle install
       ```
 
       in site folder
-   6. ```
-      jekyll serve -l -H localhost
+   6. ```ruby
+      bundle exec jekyll serve -l -H localhost
       ```
    7. localhost:4000 in browser
 3. [Node.js](https://nodejs.org/en/download/)
@@ -34,7 +34,6 @@ add in Gemfile:
 ```ruby
 gem 'jekyll-octicons'
 ```
-
 
 ```ruby
 platforms :mingw, :x64_mingw, :mswin, :jruby do  
