@@ -11,9 +11,9 @@ redirect_from:
 Education
 =========
 
-* <img src="./images/EPFL.svg" style="width: 6em;">**Docteur ès Sciences** (Ph.D.) in *Photonics*, **École Polytechnique Fédérale de Lausanne (EPFL)**, 2025 (expected)
-* **Master of Science** (M.Sc.) in *Microelectronics and Solid-State Electronics (Integrated Photonic Devices)*, **Peking University**, 2021
-* **Bachelor of Science** (B.Sc.) in *Optical Information Science and Technology (Xiangqin Creative Class 光电子学勷勤创新班)*, **South China Normal University**, 2018
+* **Docteur ès Sciences** (Ph.D.) in *Photonics*, <img src="/images/EPFL.png" style="height: 0.8em; "> **École Polytechnique Fédérale de Lausanne (EPFL)**, 2025 (expected)
+* **Master of Science** (M.Sc.) in *Microelectronics and Solid-State Electronics (Integrated Photonic Devices)*, <img src="/images/PKU.png" style="height: 1.1em; "> **Peking University**, 2021
+* **Bachelor of Science** (B.Sc.) in *Optical Information Science and Technology (Xiangqin Creative Class 光电子学勷勤创新班)*, <img src="/images/SCNU.png" style="height: 1.1em; "> **South China Normal University**, 2018
 
 Work experience
 ===============
