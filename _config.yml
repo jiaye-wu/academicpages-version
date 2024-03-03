@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Jiaye Wu's Academic Info Hub"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Jiaye Wu"
+description              : &description "Scientist in Nonlinear Nanophotonics"
+url                      : https://jiaye-wu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "jiaye-wu/jiaye-wu.github.io"
 google_scholar_stats_use_cdn : True
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -23,9 +23,9 @@ google_scholar_stats_use_cdn : True
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Jiaye Wu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Scientist in Nonlinear Nanophotonics"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
