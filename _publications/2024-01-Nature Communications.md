@@ -1,7 +1,7 @@
 ---
 title: "Thermo-optic epsilon-near-zero effects"
 collection: publications
-permalink: /publication/2024-01-Nature-Communications
+permalink: /publications/2024-01-Nature-Communications
 excerpt: 'Novel linear and nonlinear thermo-optic effects are discovered in near-zero permittivity transparent conducting oxides.'
 date: 2024-01-26
 venue: 'Nature Communications'
