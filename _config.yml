@@ -22,7 +22,7 @@ google_scholar_stats_use_cdn : True
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : /images/profile.png
   name             : "Jiaye Wu"
   pronouns         : # example: "she/her"  
   bio              : "Scientist in Nonlinear Nanophotonics"
