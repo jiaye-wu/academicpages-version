@@ -1,7 +1,7 @@
 ---
 title: "Bright and dark Talbot pulse trains on a chip"
 collection: publications
-permalink: /publication/2023-09-Communications-Physics
+permalink: /publications/2023-09-Communications-Physics
 excerpt: 'Demonstrations of tunable bright and dark Talbot pulse trains on a compact silicon nitride photonic integrated chip .'
 date: 2023-09-13
 venue: 'Communications Physics'
