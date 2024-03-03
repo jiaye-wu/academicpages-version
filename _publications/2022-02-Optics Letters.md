@@ -2,7 +2,7 @@
 title: "Temporal Talbot effect of optical dark pulse trains"
 collection: publications
 permalink: /publications/2022-02-Optics-Letters
-excerpt: 'Novel patterns are revealed in temporal Talbot effect with dark pulse trains. **Editors' Pick**; **Top Downloads in Feb. 2022**.'
+excerpt: 'Novel patterns are revealed in temporal Talbot effect with dark pulse trains. Editors' Pick; Top Downloads in Feb. 2022.'
 date: 2022-02-11
 venue: 'Optics Letters'
 paperurl: 'https://opg.optica.org/ol/viewmedia.cfm?uri=ol-47-4-953'
