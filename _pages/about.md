@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my personal academic page! In academia, the information is quite scattered across various academic websites such as Google Scholar, Researchgate, Scopus, etc, which all have their respective specialized focuses with small flexibility. A personal academic information hub website allows me to freely communicate science as I wish.
+Welcome to my personal academic page! In academia, the information is quite scattered across various academic websites, which all have their specialized focuses with limited flexibility. A personal academic information hub website allows me to freely communicate science as I wish.
 
 Biography
 ==============================
