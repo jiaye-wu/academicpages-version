@@ -11,7 +11,7 @@ redirect_from:
 Education
 =========
 
-* **Docteur ès Sciences** (Ph.D.) in *Photonics*, **École Polytechnique Fédérale de Lausanne (EPFL)**, 2025 (expected)
+* <img src="./images/EPFL.svg" style="width: 6em;">**Docteur ès Sciences** (Ph.D.) in *Photonics*, **École Polytechnique Fédérale de Lausanne (EPFL)**, 2025 (expected)
 * **Master of Science** (M.Sc.) in *Microelectronics and Solid-State Electronics (Integrated Photonic Devices)*, **Peking University**, 2021
 * **Bachelor of Science** (B.Sc.) in *Optical Information Science and Technology (Xiangqin Creative Class 光电子学勷勤创新班)*, **South China Normal University**, 2018
 
