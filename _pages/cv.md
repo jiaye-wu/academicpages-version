@@ -11,15 +11,15 @@ redirect_from:
 Education
 =========
 
-* **Docteur ès Sciences** (Ph.D.) in *Photonics*, <img src="/images/EPFL.png" style="height: 0.8em; "> **École Polytechnique Fédérale de Lausanne (EPFL)**, 2025 (expected)
-* **Master of Science** (M.Sc.) in *Microelectronics and Solid-State Electronics (Integrated Photonic Devices)*, <img src="/images/PKU.png" style="height: 1.1em; "> **Peking University**, 2021
-* **Bachelor of Science** (B.Sc.) in *Optical Information Science and Technology (Xiangqin Creative Class 光电子学勷勤创新班)*, <img src="/images/SCNU.png" style="height: 1.1em; "> **South China Normal University**, 2018
+* **Docteur ès Sciences** (Ph.D.) in *Photonics*, <img src="/images/EPFL.png" style="height: 0.8em; "> **École Polytechnique Fédérale de Lausanne (EPFL)**, 2025 (expected).
+* **Master of Science** (M.Sc.) in *Microelectronics and Solid-State Electronics (Integrated Photonic Devices)*, <img src="/images/PKU.png" style="height: 1.1em; "> **Peking University**, 2021.
+* **Bachelor of Science** (B.Sc.) in *Optical Information Science and Technology (Xiangqin Creative Class 光电子学勷勤创新班)*, <img src="/images/SCNU.png" style="height: 1.1em; "> **South China Normal University**, 2018.
 
-Work experience
+Work Experience
 ===============
 
-* 2021-2025: Assistant-Doctorant
-  * École Polytechnique Fédérale de Lausanne (EPFL)
+* 2021-2025: Assistant-Doctorant at <img src="/images/EPFL.png" style="height: 0.8em; "> **École Polytechnique Fédérale de Lausanne (EPFL)**
+  <!-- * École Polytechnique Fédérale de Lausanne (EPFL) -->
   * Teaching Assistant, Research Assistant
   * Supervisor: Assoc. Prof. Camille-Sophie Brès
 
@@ -28,15 +28,22 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub -->
 
-Memberships
+Memberships & Contributions to Academic Community 
 ===========
 
-* Elsevier Advisory Panel
-* OPTICA (formerly the Optical Society)
-* IEEE Photonics Society
+* <img src="/images/Elsevier.png" style="height: 1.1em; "> Member, **Elsevier Advisory Panel**.
+* <img src="/images/OPTICA.png" style="height: 1.1em; "> Member, **OPTICA (formerly the Optical Society)**.
+* <img src="/images/IPS.jpeg" style="height: 1.1em; "> Member, **IEEE Photonics Society**.
+* <img src="/images/IPS.jpeg" style="height: 1.1em; "> Founding president of **IEEE Photonics Society PKUSZ branch chapter**.
+* **Peer Reviewer:** *Communications Physics, Applied Physics Letters, Optics Express, Optics Letters, Optics & Laser Technology, Journal of Physics: Photonics, Journal of Optics, Journal of the Optical Society of America B, Applied Optics, Surface and Coatings Technology, Results in Physics, Physica Scriptca, Optics Communications, Acta Physica Sinica (Chinese Edition).*
+* **Co-Review for:** *Nature, Light: Science & Applications, Optics Express, Thin Solid Films, Sensors, OSA Continuum.*
 
 Selected Publications
 =====================
+Google Scholar statistics: 
+<a href='https://scholar.google.com/citations?user=D2n8tswAAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fjiaye-wu%2Fjiaye-wu.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+<a href='https://scholar.google.com/citations?user=D2n8tswAAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fjiaye-wu%2Fjiaye-wu.github.io@google-scholar-stats%2Fgs_data_hindex.json&labelColor=f6f6f6&color=9cf&style=flat&label=h-index"></a>
+<a href='https://scholar.google.com/citations?user=D2n8tswAAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fjiaye-wu%2Fjiaye-wu.github.io@google-scholar-stats%2Fgs_data_i10.json&labelColor=f6f6f6&color=9cf&style=flat&label=i10-index"></a>
 
 <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
