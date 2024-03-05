@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jiaye Wu's Academic Information Hub"
+title: "Preface"
 author_profile: true
 redirect_from: 
   - /about/
@@ -20,8 +20,7 @@ Research Interests
 
 Ultrafast light-matter-interactions, nonlinear optics and nanophotonics in epsilon-near-zero materials, fibre, fibre laser, and waveguide network design, functional thin film design, and non-Hermitian optics. Integrated optics of silicon nitride, transparent conducting oxides.
 
-Cross- and multidiscipline research on semiconductor optics (micro- nano-devices), electro-optic integration, MEMS, photonics-related lab-on-a-chip; biophotonics.
-
+**Call for collaboration:** Cross- and multidiscipline research on semiconductor optics (micro- nano-devices), electro-optic integration, MEMS, photonics-related lab-on-a-chip; biophotonics; photonic computing.
 
 <!-- Other academic profiles
 ------------------------------
