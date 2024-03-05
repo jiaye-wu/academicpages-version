@@ -21,7 +21,7 @@ Work Experience
 * 2021-2025: Assistant-Doctorant at <img src="/images/EPFL.png" style="height: 0.8em; "> **École Polytechnique Fédérale de Lausanne (EPFL)**
   <!-- * École Polytechnique Fédérale de Lausanne (EPFL) -->
   * Teaching Assistant, Research Assistant
-  * Supervisor: Assoc. Prof. Camille-Sophie Brès
+  * Supervisor: [Assoc. Prof. Camille-Sophie Brès](https://people.epfl.ch/camille.bres/?lang=en)
 
 <!-- * Fall 2015: Research Assistant
   * Github University
