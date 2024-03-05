@@ -3,7 +3,9 @@
 ## Prerequisite
 
 1. [Github Desktop](https://desktop.github.com/ "Github Desktop"), git clone the project to local drive
-2. [Ruby](https://rubyinstaller.org/downloads/ "Ruby Installer") + DevKit install
+2. Node.js
+3. [Ruby](https://rubyinstaller.org/downloads/ "Ruby Installer") + DevKit install
+
    1. ```
       ridk install
       ```
@@ -25,7 +27,12 @@
       bundle exec jekyll serve -l -H localhost
       ```
    7. localhost:4000 in browser
-3. [Node.js](https://nodejs.org/en/download/)
+4. For Talk Map:
+
+   1. ```
+      pip install jupyter_contrib_nbextensions
+      ```
+   2. in talkmap.ipynb: Nominatim(user_agent="my-website")
 
 ## Fix for TZinfo error
 
