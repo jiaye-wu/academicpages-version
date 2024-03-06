@@ -49,7 +49,7 @@ Google Scholar statistics:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Invited Talks & Conference Talks
+Invited & Conference Talks
 =============
 
 <ul>{% for post in site.talks reversed %}
