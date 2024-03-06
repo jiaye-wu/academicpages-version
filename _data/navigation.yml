@@ -6,7 +6,7 @@ main:
   - title: "Selected Publications"
     url: /publications/
 
-  - title: "Invited Talks"
+  - title: "Talks"
     url: /talks/    
 
   - title: "Teaching"
@@ -15,7 +15,7 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  - title: "Academic Blog Posts"
+  - title: "Academic Blogs"
     url: /year-archive/
     
   - title: "Curriculum Vitae"
