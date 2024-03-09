@@ -1,4 +1,4 @@
-# Jiaye Wu's Academic Information Hub
+# My Academic Information Hub
 
 Welcome to the repository of my personal academic page! It is well known that the information is quite scattered across various different academic websites such as Google Scholar, Researchgate, Scopus, etc, which all have their respective focuses. Their functions are also relatively specialized and not as flexible as a personal website. A personal academic information hub website allows me to freely communicate science as I want. 
 
