@@ -66,7 +66,7 @@ Google Scholar statistics:
 <img src="/images/Grants.png" style="height: 1em; "> Grants & Funding
 ================
 
-<img src="/images/Venture_Capital1.png" style="height: 1em; "> As Recipient
+<img src="/images/Venture-Capital1.png" style="height: 1em; "> As Recipient
 ---------------
 
 * **The 28th Peking University Challenge Cup Fund, PKU**. (Grant No. 379) May, 2020.
@@ -74,7 +74,7 @@ Google Scholar statistics:
 *	**Provincial Undergraduate Training Program for Innovation and Entrepreneurship of Guangdong Province, China**. (Grant No. 201610574149) June, 2016.
 *	**Undergraduate Training Program for Innovation and Entrepreneurship, SCNU**. (Grant No. 20161404) June, 2016.
 
-<img src="/images/Venture_Capital2.png" style="height: 1em; "> As Participant (Member)
+<img src="/images/Venture-Capital2.png" style="height: 1em; "> As Participant (Member)
 ---------------
 
 * **Swiss National Science Foundation** (Schweizerischer Nationalfonds zur Förderung der Wissenschaftlichen Forschung) (Grant No. [200021_188605](https://data.snf.ch/grants/grant/188605)), 2020-2024.
