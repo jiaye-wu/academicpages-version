@@ -11,9 +11,15 @@ redirect_from:
 <img src="/images/Alumni.png" style="height: 1em; "> Education
 =========
 
-* **Docteur ès Sciences** (Ph.D.) in *Photonics*, <img src="/images/EPFL.png" style="height: 0.8em; "> **École Polytechnique Fédérale de Lausanne (EPFL)**, 2025 (expected), supervised by [Assoc. Prof. Camille-Sophie Brès](https://people.epfl.ch/camille.bres/?lang=en).
-* **Master of Science** (M.Sc.) in *Microelectronics and Solid-State Electronics (Integrated Photonic Devices)*, <img src="/images/PKU.png" style="height: 1.1em; "> **Peking University**, 2021, supervised by [Assoc. Prof. Qian Li](https://www.ece.pku.edu.cn/info/1062/2226.htm)
-* **Bachelor of Science** (B.Sc.) in *Optical Information Science and Technology (Xiangqin Creative Class 光电子学勷勤创新班)*, <img src="/images/SCNU.png" style="height: 1.1em; "> **South China Normal University**, 2018, supervised by [Prof. Xiangbo Yang](http://ioe.scnu.edu.cn/a/20151201/833.html) and [Assoc. Prof. Qiaofeng Dai](http://ioe.scnu.edu.cn/a/20210305/1631.html).
+* **Docteur ès Sciences** (Ph.D.) in *Photonics*, 2025 (expected)
+  * <img src="/images/EPFL.png" style="height: 0.8em; "> **École Polytechnique Fédérale de Lausanne (EPFL)**
+  * Supervised by [Assoc. Prof. Camille-Sophie Brès](https://people.epfl.ch/camille.bres/?lang=en)
+* **Master of Science** (M.Sc.) in *Microelectronics and Solid-State Electronics (Integrated Photonic Devices)*, 2021
+  * <img src="/images/PKU.png" style="height: 1.1em; "> **Peking University**
+  * Supervised by [Assoc. Prof. Qian Li](https://www.ece.pku.edu.cn/info/1062/2226.htm)
+* **Bachelor of Science** (B.Sc.) in *Optical Information Science and Technology (Xiangqin Creative Class 光电子学勷勤创新班)*, 2018.
+  * <img src="/images/SCNU.png" style="height: 1.1em; "> **South China Normal University**
+  * Supervised by [Prof. Xiangbo Yang](http://ioe.scnu.edu.cn/a/20151201/833.html) and [Assoc. Prof. Qiaofeng Dai](http://ioe.scnu.edu.cn/a/20210305/1631.html)
 
 <img src="/images/Chercheur.png" style="height: 1em; "> Work Experience
 ===============
