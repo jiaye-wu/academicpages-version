@@ -8,14 +8,20 @@ redirect_from:
 ---
 {% include base_path %}
 
-Education
+<img src="/images/Alumni.png" style="height: 1em; "> Education
 =========
 
-* **Docteur ès Sciences** (Ph.D.) in *Photonics*, <img src="/images/EPFL.png" style="height: 0.8em; "> **École Polytechnique Fédérale de Lausanne (EPFL)**, 2025 (expected), supervised by [Assoc. Prof. Camille-Sophie Brès](https://people.epfl.ch/camille.bres/?lang=en).
-* **Master of Science** (M.Sc.) in *Microelectronics and Solid-State Electronics (Integrated Photonic Devices)*, <img src="/images/PKU.png" style="height: 1.1em; "> **Peking University**, 2021, supervised by [Assoc. Prof. Qian Li](https://www.ece.pku.edu.cn/info/1062/2226.htm)
-* **Bachelor of Science** (B.Sc.) in *Optical Information Science and Technology (Xiangqin Creative Class 光电子学勷勤创新班)*, <img src="/images/SCNU.png" style="height: 1.1em; "> **South China Normal University**, 2018, supervised by [Prof. Xiangbo Yang](http://ioe.scnu.edu.cn/a/20151201/833.html) and [Assoc. Prof. Qiaofeng Dai](http://ioe.scnu.edu.cn/a/20210305/1631.html).
+* **Docteur ès Sciences** (Ph.D.) in *Photonics*, 2025 (expected)
+  * <img src="/images/EPFL.png" style="height: 0.8em; "> **École Polytechnique Fédérale de Lausanne (EPFL)**
+  * Supervised by [Assoc. Prof. Camille-Sophie Brès](https://people.epfl.ch/camille.bres/?lang=en)
+* **Master of Science** (M.Sc.) in *Microelectronics and Solid-State Electronics (Integrated Photonic Devices)*, 2021
+  * <img src="/images/PKU.png" style="height: 1.1em; "> **Peking University**
+  * Supervised by [Assoc. Prof. Qian Li](https://www.ece.pku.edu.cn/info/1062/2226.htm)
+* **Bachelor of Science** (B.Sc.) in *Optical Information Science and Technology (Xiangqin Creative Class 光电子学勷勤创新班)*, 2018.
+  * <img src="/images/SCNU.png" style="height: 1.1em; "> **South China Normal University**
+  * Supervised by [Prof. Xiangbo Yang](http://ioe.scnu.edu.cn/a/20151201/833.html) and [Assoc. Prof. Qiaofeng Dai](http://ioe.scnu.edu.cn/a/20210305/1631.html)
 
-Work Experience
+<img src="/images/Chercheur.png" style="height: 1em; "> Work Experience
 ===============
 
 * 2021-2025: Assistant-Doctorant at <img src="/images/EPFL.png" style="height: 0.8em; "> **École Polytechnique Fédérale de Lausanne (EPFL)**
@@ -28,7 +34,7 @@ Work Experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub -->
 
-Memberships & Contributions to Academic Community 
+<img src="/images/Community.png" style="height: 1em; "> Memberships & Contributions to Academic Community 
 ===========
 
 * <img src="/images/Elsevier.png" style="height: 1.1em; "> Member, **Elsevier Advisory Panel**.
@@ -38,7 +44,7 @@ Memberships & Contributions to Academic Community
 * **Peer Reviewer:** *Communications Physics, Applied Physics Letters, Optics Express, Optics Letters, Optics & Laser Technology, Journal of Physics: Photonics, Journal of Optics, Journal of the Optical Society of America B, Applied Optics, Surface and Coatings Technology, Results in Physics, Physica Scriptca, Optics Communications, Acta Physica Sinica (Chinese Edition).*
 * **Co-Review for:** *Nature, Light: Science & Applications, Optics Express, Thin Solid Films, Sensors, OSA Continuum.*
 
-Selected Publications
+<img src="/images/Recherche.png" style="height: 1em; "> Selected Publications
 =====================
 Google Scholar statistics: 
 <a href='https://scholar.google.com/citations?user=D2n8tswAAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fjiaye-wu%2Fjiaye-wu.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
@@ -49,24 +55,24 @@ Google Scholar statistics:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Invited & Conference Talks
+<img src="/images/Innovation1.png" style="height: 1em; "> Invited & Conference Talks
 =============
 
 <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
 
-Teaching Experiences
+<img src="/images/Einstein.png" style="height: 1em; "> Teaching Experiences
 ====================
 
 <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Grants & Funding
+<img src="/images/Grants.png" style="height: 1em; "> Grants & Funding
 ================
 
-As Recipient
+<img src="/images/Venture-Capital1.png" style="height: 1em; "> As Recipient
 ---------------
 
 * **The 28th Peking University Challenge Cup Fund, PKU**. (Grant No. 379) May, 2020.
@@ -74,12 +80,12 @@ As Recipient
 *	**Provincial Undergraduate Training Program for Innovation and Entrepreneurship of Guangdong Province, China**. (Grant No. 201610574149) June, 2016.
 *	**Undergraduate Training Program for Innovation and Entrepreneurship, SCNU**. (Grant No. 20161404) June, 2016.
 
-As Participant (Member)
+<img src="/images/Venture-Capital2.png" style="height: 1em; "> As Participant (Member)
 ---------------
 
 * **Swiss National Science Foundation** (Schweizerischer Nationalfonds zur Förderung der Wissenschaftlichen Forschung) (Grant No. [200021_188605](https://data.snf.ch/grants/grant/188605)), 2020-2024.
 
-Awards & Honours
+<img src="/images/Start-up.png" style="height: 1em; "> Awards & Honours
 ================
 
 * **Outstanding Graduate Student of Beijing** (4/80), *Department of Education*, Beijing, 2020-2021
