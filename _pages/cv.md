@@ -88,6 +88,7 @@ Google Scholar statistics:
 <img src="/images/Start-up.png" style="height: 1em; "> Awards & Honours
 ================
 
+* **EPFL STI Teaching Assistant Award** (5+/700), *École Polytechnique Fédérale de Lausanne*, 2023-2024
 * **Outstanding Graduate Student of Beijing** (4/80), *Department of Education*, Beijing, 2020-2021
 * **Outstanding Graduate Student of Peking University** (10/80), *Peking University*, 2020-2021
 * **Merit Student of Beijing** (55/30000), *Department of Education, Beijing*, 2019-2020
