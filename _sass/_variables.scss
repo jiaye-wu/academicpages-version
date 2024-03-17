@@ -6,6 +6,20 @@
    Typography
    ========================================================================== */
 
+@font-face {
+  font-family: 'MiSans';
+  src: url('/assets/fonts/MiSans/MiSans-Regular.ttf') format('ttf');   
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SourceHanSerif';
+  src: url('/assets/fonts/SourceHanSerif/SourceHanSerifSC-Regular.otf') format('otf');
+  font-weight: normal;
+  font-style: normal;
+}
+
 $doc-font-size              : 16;
 
 /* paragraph indention */
@@ -13,8 +27,8 @@ $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
 /* system typefaces */
-$serif                      : Georgia, Times, serif;
-$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$serif                      : SourceHanSerif, Georgia, Times, serif;
+$sans-serif                 : MiSans, -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
