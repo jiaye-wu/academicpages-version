@@ -2,7 +2,7 @@
 layout: archive
 title: "Curriculm Vitae"
 permalink: /cv/
-author_profile: true
+
 redirect_from:
   - /resume
 ---
@@ -11,20 +11,16 @@ redirect_from:
 <img src="/images/Alumni.png" style="height: 1em; "> Education
 =========
 
-* **Docteur ès Sciences** (Ph.D.) in *Photonics*, 2025 (expected)
-  * <img src="/images/EPFL.png" style="height: 0.8em; "> **École Polytechnique Fédérale de Lausanne (EPFL)**
-  * Supervised by [Assoc. Prof. Camille-Sophie Brès](https://people.epfl.ch/camille.bres/?lang=en)
-* **Master of Science** (M.Sc.) in *Microelectronics and Solid-State Electronics (Integrated Photonic Devices)*, 2021
-  * <img src="/images/PKU.png" style="height: 1.1em; "> **Peking University**
-  * Supervised by [Assoc. Prof. Qian Li](https://www.ece.pku.edu.cn/info/1062/2226.htm)
-* **Bachelor of Science** (B.Sc.) in *Optical Information Science and Technology (Xiangqin Creative Class 光电子学勷勤创新班)*, 2018.
-  * <img src="/images/SCNU.png" style="height: 1.1em; "> **South China Normal University**
-  * Supervised by [Prof. Xiangbo Yang](http://ioe.scnu.edu.cn/a/20151201/833.html) and [Assoc. Prof. Qiaofeng Dai](http://ioe.scnu.edu.cn/a/20210305/1631.html)
+**Docteur ès Sciences** (Ph.D.) in *Photonics*, 2025 (expected) from <img src="/images/EPFL.png" style="height: 0.8em; "> **École Polytechnique Fédérale de Lausanne (EPFL)**, supervised by [Assoc. Prof. Camille-Sophie Brès](https://people.epfl.ch/camille.bres/?lang=en)
+
+**Master of Science** (M.Sc.) in *Microelectronics and Solid-State Electronics (Integrated Photonic Devices)*, 2021 from <img src="/images/PKU.png" style="height: 1.1em; "> **Peking University**, supervised by [Assoc. Prof. Qian Li](https://www.ece.pku.edu.cn/info/1062/2226.htm)
+
+**Bachelor of Science** (B.Sc.) in *Optical Information Science and Technology (Xiangqin Creative Class 光电子学勷勤创新班)*, 2018, from <img src="/images/SCNU.png" style="height: 1.1em; "> **South China Normal University**, supervised by [Prof. Xiangbo Yang](http://ioe.scnu.edu.cn/a/20151201/833.html) and [Assoc. Prof. Qiaofeng Dai](http://ioe.scnu.edu.cn/a/20210305/1631.html)
 
 <img src="/images/Chercheur.png" style="height: 1em; "> Work Experience
 ===============
 
-* 2021-2025: Assistant-Doctorant at <img src="/images/EPFL.png" style="height: 0.8em; "> **École Polytechnique Fédérale de Lausanne (EPFL)**
+2021-2025: Assistant-Doctorant at <img src="/images/EPFL.png" style="height: 0.8em; "> **École Polytechnique Fédérale de Lausanne (EPFL)**
   <!-- * École Polytechnique Fédérale de Lausanne (EPFL) -->
   * Teaching Assistant, Research Assistant
   * Supervisor: [Assoc. Prof. Camille-Sophie Brès](https://people.epfl.ch/camille.bres/?lang=en)
@@ -88,20 +84,27 @@ Google Scholar statistics:
 <img src="/images/Start-up.png" style="height: 1em; "> Awards & Honours
 ================
 
-* **EPFL STI Teaching Assistant Award** (5+/700), *École Polytechnique Fédérale de Lausanne*, 2023-2024
-* **Outstanding Graduate Student of Beijing** (4/80), *Department of Education*, Beijing, 2020-2021
-* **Outstanding Graduate Student of Peking University** (10/80), *Peking University*, 2020-2021
-* **Merit Student of Beijing** (55/30000), *Department of Education, Beijing*, 2019-2020
-* **National Scholarship** (5/140), *Peking University & Ministry of Education, PRC*, 2019-2020
-* **Merit Student Pacesetter** (7/330), *Peking University*, 2019-2020
-* **1st Award of the 28th PKU Challenge Cup Academic Contest**, *Peking University*, 2019-2020
-* **Postgraduate Studies Scholarship**, *Peking University & Ministry of Education, PRC*, 2018-2021
-* **National Scholarship** (5/148), *Peking University & Ministry of Education, PRC*, 2018-2019
-* **Merit Student Pacesetter** (7/364), *Peking University*, 2018-2019
-* **Scholarship for 100 Outstanding Graduates** (100/6519), *South China Normal University*, 2017-2018
-* **Innovation Award of South China Normal University**, *South China Normal University*, 2017-2018
-* **Academician Prof. Songhao Liu Award for Innovation**, *South China Normal University*, 2017-2018
-* **2nd Award of Provincial Challenge Cup Academic Contest**, *Department of Education, Guangdong*, 2017-2018
-* **Comprehensive Scholarship** (5/23), *South China Normal University*, 2014-2018
-* **Excellent Student Pacesetter** (1/25), *South China Normal University*, 2014-2015
-* **Scholarship for Excellent Admitted Students**, *South China Normal University*, 2014-2015
+* **1st Prize, Best Student Paper Award** (Top 5 presentations), *PIERS 2024 conference, Chengdu, China*,	2024.04
+* **EPFL STI Teaching Assistant Award Nomination** (5+/700), *École Polytechnique Fédérale de Lausanne*,	2024.03
+* **Outstanding Graduate Student of Beijing** (4/80), *Department of Education, Beijing*,	2021.05
+* **Outstanding Graduate Student of Peking University** (10/80), *Peking University*,	2021.05
+* **Merit Student of Beijing** (55/30000), *Department of Education, Beijing*,	2020.12
+* **National Scholarship** (5/140), *Peking University & Ministry of Education, PRC*,	2020.11
+* **Merit Student Pacesetter** (7/330), *Peking University*,	2020.11
+* **Best Presentation Award**, *ICAIT 2020 conference, Macao SAR, China*,	2020.11
+* **1st Prize of the 28th PKU Challenge Cup Academic Contest**, *Peking University*,	2020.06
+* **Grand Prize of the 28th PKUSZ Challenge Cup Academic Contest**, *Peking University Shenzhen Graduate School*,	2020.06
+* **National Scholarship** (5/148), *Peking University & Ministry of Education, PRC*,	2019.12
+* **Merit Student Pacesetter** (7/364), *Peking University*,	2019.12
+* **100 Outstanding Graduates** (100/6519), *South China Normal University*,	2018.05
+* **Honours Scholarship for 2018 Graduates** (100/6519), *South China Normal University*,	2018.05
+* **Innovation Award of SCNU** (2 Grand Prizes; 1 First Prize), *South China Normal University*,	2018.05
+* **Academician Prof. Songhao Liu Award for Innovation** (2 Grand Prizes; 1 Second Prize; 1 Third Prize), *South China Normal University*, 	2018.04
+* **2018 ”Star of Optoelectronics”**, *South China Normal University*, 	2018.04
+* **2017-2018 SCNU Comprehensive Scholarship: 1st Prize** (<5/23), *South China Normal University*,	2018.03
+* **2016-2017 SCNU Comprehensive Scholarship: 2nd Prize** (<5/23), *South China Normal University*,	2017.12
+* **2nd Prize of Provincial Challenge Cup Academic Contest**, *Department of Education, Guangdong*,	2017.06
+* **2015-2016 SCNU Comprehensive Scholarship: 3rd Prize** (<5/23), *South China Normal University*,	2016.10
+* **2014-2015 SCNU Comprehensive Scholarship: 1st Prize** (<5/23), *South China Normal University*,	2015.10
+* **Excellent Student Pacesetter** (1/25), *South China Normal University*,	2015.10
+* **Scholarship for Excellent Admitted Students**, *South China Normal University*,	2014.09
