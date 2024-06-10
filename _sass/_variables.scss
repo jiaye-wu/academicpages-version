@@ -106,9 +106,13 @@ $vine-color                 : #00bf8f;
 $youtube-color              : #bb0000;
 $xing-color                 : #006567;
 
+/* univerity colors */
+$epfl-color              : #ff0000;
+$pku-color              : #8c0000;
+$scnu-color             : #043972;
 
 /* links */
-$link-color                 : $info-color;
+$link-color                 : $foursquare-color;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : $primary-color;
