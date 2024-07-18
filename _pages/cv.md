@@ -84,6 +84,7 @@ Google Scholar statistics:
 <img src="/images/Start-up.png" style="height: 1em; "> Awards & Honours
 ================
 
+* **2023 Chinese Government Award for Outstanding Self-financed Students Abroad** (17 laureates in Switzerland), *China Scholarship Council, Ministry of Education of the People's Republic of China*,	2024.07
 * **1st Prize, Best Student Paper Award** (Top 5 presentations), *PIERS 2024 conference, Chengdu, China*,	2024.04
 * **EPFL STI Teaching Assistant Award Nomination** (5+/700), *École Polytechnique Fédérale de Lausanne*,	2024.03
 * **Outstanding Graduate Student of Beijing** (4/80), *Department of Education, Beijing*,	2021.05
