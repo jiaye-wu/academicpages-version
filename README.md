@@ -7,3 +7,8 @@ Welcome to the repository of my personal academic page! It is well known that th
 * This website is held on [Github Pages](https://pages.github.com/).
 * The template is primarily based on [academicpages](https://github.com/academicpages/academicpages.github.io), a fork of [Minimal Mistakes](https://mademistakes.com/work/jekyll-themes/minimal-mistakes/). ([Demo webpage](https://academicpages.github.io/))
 * The Google Scholar citation auto-fetch functions are adpated from [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io). ([Demo webpage](https://rayeren.github.io/acad-homepage.github.io/))
+
+
+## Note
+
+This website is discontinued because I am switching to the [al-folio template](https://alshedivat.github.io/al-folio/).
