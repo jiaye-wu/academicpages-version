@@ -13,8 +13,8 @@ title_separator          : "-"
 name                     : &name "Jiaye Wu"
 description              : &description "Scientist in Nonlinear Nanophotonics"
 url                      : https://jiaye-wu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jiaye-wu/jiaye-wu.github.io"
+baseurl                  : "/old" # the subpath of your site, e.g. "/blog"
+repository               : "jiaye-wu/jiaye-wu.github.io.discontinued"
 google_scholar_stats_use_cdn : True
 
 # Site Author - The following control what appear as part of the author content on the side bar.
